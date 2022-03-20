@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I'm Kiri. I'm junior developer.
+
+![](https://komarev.com/ghpvc/?username=kiri-91)
+![](https://img.shields.io/twitter/follow/91_chankiri)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiri-91&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api?username=kiri-91&count_private=true&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiri-91&layout=compact&theme=dracula)
