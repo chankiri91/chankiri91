@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm Kiri. I'm junior developer.
+## I'm Kiri. I love Kotlin.
 
 ![](https://komarev.com/ghpvc/?username=kiri-91)
 ![](https://img.shields.io/twitter/follow/91_chankiri)
