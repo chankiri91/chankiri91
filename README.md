@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm Kiri. I love Kotlin.
 
 ![](https://img.shields.io/twitter/follow/chankiri91)
 
